@@ -1,0 +1,15 @@
+.imagem2{
+    
+    background-image: url(https://epicorpg.com.br/wp-content/uploads/2019/03/564662ca934ddb7eb69b67cca42a5521.gif);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+  
+}
+
+.textos2{
+    font-weight: bold !important;
+}
+
